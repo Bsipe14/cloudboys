@@ -1,0 +1,13 @@
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color:lightblue
+}
+.clouds{
+  width: 800px;
+  float: right;
+}
+.info{
+  float: left;
+  margin left
+}
